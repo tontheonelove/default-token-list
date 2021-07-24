@@ -6,6 +6,14 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+  },  
+  {
+    "name": "GrodaToken",
+    "address": "0xdc49ab4822fd55807b1b72e3d42c5c8760f9e221",
+    "symbol": "GT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
   },
   {
     "name": "BTCB Token",
